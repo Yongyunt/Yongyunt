@@ -54,9 +54,9 @@
 ### - Learning :
 - ✨ python
 - ✨ Django
-- ✨ Neural Style Transfer
 - ✨ C/C++
-- ✨ Financial Markets
+- ✨ MYSQL
+
 
 ### - Hobbies : 
 - ✨ Gaming
