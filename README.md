@@ -1,66 +1,13 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<h1>Hola. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Watch me on: <a href="http://twitch.tv/0gothboy0">Twitch <img src="https://camo.githubusercontent.com/c498d846a7be14c18a40249e3169b40671072cac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667" width="10"></a></h4>
-<h5>⏰ 16 Wednesday, 07:48 | Latest follower – <a href="https://github.com/wonAdam/" target="_blank">Won Dong Hyun</a> 👋</h5>
-<hr>
-<h2>📝 Statistics: </h2>
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;816 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;22 – <a href='https://github.com/xcaq/spotify-transfer'>spotify-transfer</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;160 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
-    </td>
-    <td valign="top">
-      <h3>My stack: </h3>
-      <h6>📒&emsp;<a href="https://github.com/xcaq?tab=repositories&q=&type=&language=python">Python</a> ( Middle )</h6>
-      <h6>📗&emsp;<a href="https://github.com/xcaq?tab=repositories&q=&type=&language=c%23">C#</a> ( Junior )</h6>
-      <h6>📘&emsp;<a href="https://github.com/xcaq?tab=repositories&q=&type=&language=golang">Golang</a> ( Intern )</h6>
-      </td>
-     <td valign="top">
-      <h3>New repositories: </h3>
-           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;39 – <a href='https://github.com/xcaq/CSES'>CSES</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;22 – <a href='https://github.com/xcaq/spotify-transfer'>spotify-transfer</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;816 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
-        </td>
-  </tr>
-</table>
-<h2>📊 Weekly development breakdown: </h2>
-<table>
-                <tr>
-                    <td width=215px;>
-                        Python
-                    </td>
-                    <td>
-                        4 hrs 46 mins
-                    </td>
-                    <td>
-                        █████████░&nbsp;&nbsp;(95.82 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        JavaScript
-                    </td>
-                    <td width=145px;>
-                        7 mins
-                    </td>
-                    <td width=230px;>
-                        ░░░░░░░░░░░&nbsp;&nbsp;(2.66 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        CSS
-                    </td>
-                    <td width=145px;>
-                        2 mins
-                    </td>
-                    <td width=230px;>
-                        ░░░░░░░░░░░&nbsp;&nbsp;(0.84 %)
-                    </td>
-                </tr></table>
-<hr>
-<h4 align="center">Other – <a href='https://feschenko.org' target="_blank">feschenko.org</a><h4>
-    
+# 🍕 bdougie's Top 8 Page🍕
+
+## bdougie has 647 followers
+
+[@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
+--- | --- | --- | ---
+![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
+
+[@m0nica](https://github.com/m0nica) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/)
+--- | --- | --- | ---
+![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
